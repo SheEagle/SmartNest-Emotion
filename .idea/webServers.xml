@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="90a5d3bb-0d98-4b21-a43a-7795a5b78e86" name="smarthome">
+        <fileTransfer accessType="SFTP" host="connect.westc.gpuhub.com" port="32531" sshConfigId="79e1675a-9b00-4054-b8dd-0d3a301950dd" sshConfig="root@connect.westc.gpuhub.com:32531 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
